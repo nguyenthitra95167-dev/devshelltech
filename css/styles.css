@@ -500,6 +500,12 @@ h1 {
   transform: translateY(0);
 }
 
+.legal-page .reveal {
+  opacity: 1;
+  transform: none;
+  transition: none;
+}
+
 @media (max-width: 1024px) {
   .hero-shell,
   .legal-layout {
